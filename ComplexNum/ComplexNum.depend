@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1486435301 source:c:\users\navya.r\srinivasan_class\complexnum\complex.c
+	"complex.h"
+
+1486435268 c:\users\navya.r\srinivasan_class\complexnum\complex.h
+
+1486485626 source:c:\users\navya.r\srinivasan_class\complexnum\main.c
+	<stdio.h>
+	"complex.h"
+
